@@ -76,6 +76,9 @@ a:hover {
     color: #fcdc73;
 }
 
+a:visited {
+    color: black;
+}
 
 .header-right {
     padding-right: 40px;
