@@ -80,3 +80,15 @@ a:hover {
 .header-right {
     padding-right: 40px;
 }
+
+.body {
+    width: 80%;
+    /* text-align: center; */
+    margin: 0 auto;
+    /* background-color: darkcyan; */
+    padding-top: 30px;
+}
+
+.title {
+    padding: 10px 0;
+}
