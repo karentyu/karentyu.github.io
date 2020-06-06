@@ -1,0 +1,40 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    background: lightblue;
+    width: 90%;
+    margin: 0 auto;
+    align-items: center;
+}
+
+
+.links {
+    display: flex;
+    background: lightcoral;
+    list-style: none;
+    margin: 0 2px;
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.links li { 
+    padding:10px;
+}
+
+.main {
+    display: flex;
+    margin: 0 auto;
+    background-color: lightgreen;
+    width: 90%;
+    /* text-align: center; */
+    justify-content: center;
+    padding-top: 100px;
+}
+
+
+.header-left {
+    display: flex;
+    align-items: center;
+}
