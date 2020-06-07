@@ -73,7 +73,7 @@ a:link {
 
 
 a:hover {
-    color: #fcdc73;
+    color: #a1d5ec;
 }
 
 a:visited {
@@ -85,13 +85,27 @@ a:visited {
 }
 
 .body {
-    width: 80%;
+    width: 50%;
     /* text-align: center; */
     margin: 0 auto;
     /* background-color: darkcyan; */
-    padding-top: 30px;
+    /* padding-top: 40px; */
+    /* padding-right: 60px; */
 }
 
 .title {
     padding: 10px 0;
+}
+
+
+.about-top {
+    display: flex;
+    width: 80%;
+    margin: 0 auto;
+    padding-top: 30px;
+}
+
+
+.bowser img {
+    border-radius: 20px;
 }
